@@ -82,82 +82,82 @@ local EQUIPSLOT_MULTIPLIER_277 = {
 
 local EQUIPSLOT_MULTIPLIER_284 = {
   INVTYPE_HEAD = 0.4,
-  INVTYPE_NECK = 0.45,
+  INVTYPE_NECK = 0.35,
   INVTYPE_SHOULDER = 0.4,
   INVTYPE_CHEST = 0.4,
   INVTYPE_ROBE = 0.4,
   INVTYPE_WAIST = 0.4,
   INVTYPE_LEGS = 0.4,
-  INVTYPE_FEET = 0.4,
-  INVTYPE_WRIST = 0.4,
+  INVTYPE_FEET = 0.35,
+  INVTYPE_WRIST = 0.35,
   INVTYPE_HAND = 0.4,
-  INVTYPE_FINGER = 0.45,
-  INVTYPE_TRINKET = 0.5,
-  INVTYPE_CLOAK = 0.4,
-  INVTYPE_WEAPON = 0.42,
-  INVTYPE_SHIELD = 0.35,
-  INVTYPE_2HWEAPON = 0.5,
-  INVTYPE_WEAPONMAINHAND = 0.42,
-  INVTYPE_WEAPONOFFHAND = 0.35,
-  INVTYPE_HOLDABLE = 0.35,
-  INVTYPE_RANGED = 0.3,
+  INVTYPE_FINGER = 0.3,
+  INVTYPE_TRINKET = 0.6,
+  INVTYPE_CLOAK = 0.3,
+  INVTYPE_WEAPON = 0.3,
+  INVTYPE_SHIELD = 0.3,
+  INVTYPE_2HWEAPON = 0.6,
+  INVTYPE_WEAPONMAINHAND = 0.3,
+  INVTYPE_WEAPONOFFHAND = 0.3,
+  INVTYPE_HOLDABLE = 0.3,
+  INVTYPE_RANGED = 0.6,
   INVTYPE_RANGEDRIGHT = 0.3,
   INVTYPE_THROWN = 0.3,
-  INVTYPE_RELIC = 0.2,
+  INVTYPE_RELIC = 0.3,
   INVTYPE_CUSTOM_MULTISLOT_TIER = 0.3,
 }
 
 local EQUIPSLOT_MULTIPLIER_297 = {
-  INVTYPE_HEAD = 0.6,
-  INVTYPE_NECK = 0.65,
-  INVTYPE_SHOULDER = 0.6,
-  INVTYPE_CHEST = 0.6,
-  INVTYPE_ROBE = 0.6,
-  INVTYPE_WAIST = 0.6,
-  INVTYPE_LEGS = 0.6,
-  INVTYPE_FEET = 0.6,
-  INVTYPE_WRIST = 0.6,
-  INVTYPE_HAND = 0.6,
-  INVTYPE_FINGER = 0.65,
-  INVTYPE_TRINKET = 1,
-  INVTYPE_CLOAK = 0.65,
-  INVTYPE_WEAPON = 0.62,
-  INVTYPE_SHIELD = 0.55,
-  INVTYPE_2HWEAPON = 0.7,
-  INVTYPE_WEAPONMAINHAND = 0.62,
-  INVTYPE_WEAPONOFFHAND = 0.55,
-  INVTYPE_HOLDABLE = 0.55,
-  INVTYPE_RANGED = 0.5,
-  INVTYPE_RANGEDRIGHT = 0.5,
-  INVTYPE_THROWN = 0.5,
-  INVTYPE_RELIC = 0.4,
+  INVTYPE_HEAD = 1.0,
+  INVTYPE_NECK = 0.9,
+  INVTYPE_SHOULDER = 1.0,
+  INVTYPE_CHEST = 1.0,
+  INVTYPE_ROBE = 1.0,
+  INVTYPE_WAIST = 0.9,
+  INVTYPE_LEGS = 1.0,
+  INVTYPE_FEET = 0.9,
+  INVTYPE_WRIST = 0.9,
+  INVTYPE_HAND = 1.0,
+  INVTYPE_FINGER = 0.85,
+  INVTYPE_TRINKET = 1.4,
+  INVTYPE_CLOAK = 0.85,
+  INVTYPE_WEAPON = 0.7,
+  INVTYPE_SHIELD = 0.7,
+  INVTYPE_2HWEAPON = 1.4,
+  INVTYPE_WEAPONMAINHAND = 0.7,
+  INVTYPE_WEAPONOFFHAND = 0.7,
+  INVTYPE_HOLDABLE = 0.85,
+  INVTYPE_RANGED = 1.4,
+  INVTYPE_RANGEDRIGHT = 0.85,
+  INVTYPE_THROWN = 0.85,
+  INVTYPE_RELIC = 0.85,
   INVTYPE_CUSTOM_MULTISLOT_TIER = 0.5,
 }
 
 local EQUIPSLOT_MULTIPLIER_290 = {
-  INVTYPE_HEAD = 0.5,
-  INVTYPE_NECK = 0.55,
-  INVTYPE_SHOULDER = 0.5,
-  INVTYPE_CHEST = 0.5,
-  INVTYPE_ROBE = 0.5,
-  INVTYPE_WAIST = 0.5,
-  INVTYPE_LEGS = 0.5,
-  INVTYPE_FEET = 0.5,
-  INVTYPE_WRIST = 0.5,
-  INVTYPE_HAND = 0.5,
+  INVTYPE_HEAD = 0.7,
+  INVTYPE_NECK = 0.6,
+  INVTYPE_SHOULDER = 0.7,
+  INVTYPE_CHEST = 0.7,
+  INVTYPE_ROBE = 0.7,
+  INVTYPE_WAIST = 0.6,
+  INVTYPE_LEGS = 0.7,
+  INVTYPE_FEET = 0.6,
+  INVTYPE_WRIST = 0.6,
+  INVTYPE_HAND = 0.7,
   INVTYPE_FINGER = 0.55,
   INVTYPE_TRINKET = 0.75,
-  INVTYPE_CLOAK = 0.5,
-  INVTYPE_WEAPON = 0.52,
-  INVTYPE_SHIELD = 0.45,
-  INVTYPE_2HWEAPON = 0.6,
-  INVTYPE_WEAPONMAINHAND = 0.52,
-  INVTYPE_WEAPONOFFHAND = 0.45,
-  INVTYPE_HOLDABLE = 0.45,
-  INVTYPE_RANGED = 0.4,
-  INVTYPE_RANGEDRIGHT = 0.4,
-  INVTYPE_THROWN = 0.4,
-  INVTYPE_RELIC = 0.3,
+  INVTYPE_CLOAK = 0.55,
+  INVTYPE_WEAPON = 0.4,
+  INVTYPE_SHIELD = 0.4,
+  INVTYPE_2HWEAPON = 0.8,
+  INVTYPE_WEAPONMAINHAND = 0.4,
+  INVTYPE_WEAPONOFFHAND = 0.4,
+  INVTYPE_HOLDABLE = 0.55,
+  INVTYPE_RANGED = 0.8,
+  INVTYPE_RANGEDRIGHT = 0.55,
+  INVTYPE_THROWN = 0.55,
+  INVTYPE_RELIC = 0.55,
   INVTYPE_CUSTOM_MULTISLOT_TIER = 0.5,
 }
 --Used to display GP values directly on tier tokens
@@ -339,12 +339,13 @@ local CUSTOM_ITEM_DATA = {
   [52028] = { 4, 279, "INVTYPE_CUSTOM_MULTISLOT_TIER" },
   [52029] = { 4, 279, "INVTYPE_CUSTOM_MULTISLOT_TIER" },
   [52030] = { 4, 279, "INVTYPE_CUSTOM_MULTISLOT_TIER" },
-
-  --T5.3 297
-  [280009] = { 4, 297, "INVTYPE_CUSTOM_MULTISLOT_TIER" },
+  
+    --T5.3 297
+  [280009] = { 4, 419.8, "INVTYPE_CUSTOM_MULTISLOT_TIER" },
 
   --T5.2 290
-  [280006] = { 4, 433.4, "INVTYPE_CUSTOM_MULTISLOT_TIER" },
+  [280006] = { 4, 457.5, "INVTYPE_CUSTOM_MULTISLOT_TIER" },
+
 }
 
 local CUSTOM_ITEM_GPBASE = {
@@ -352,55 +353,55 @@ local CUSTOM_ITEM_GPBASE = {
   [32405] = { 500 },
 
   -- Sky Flare
-  [151378] = { 1000 },
+  [151378] = { 1400 },
 
   -- Сердце ярости
-  [65072] = { 500 },
+  [65072] = { 200 },
 
   -- Червь-симбиот
-  [65048] = { 625 },
+  [65048] = { 1000 },
 
   -- Поступь смерти
-  [65124] = { 625 },
+  [65124] = { 1000 },
 
   -- Флакончик
-  [65029] = { 500 },
+  [65029] = { 600 },
 
   -- Зеркало
-  [65105] = { 625 },
+  [65105] = { 1000 },
 
   -- Осколок горя
-  [60233] = { 500 },
+  [60233] = { 600 },
 
   -- Средоточие спелости
-  [58184] = { 625 },
+  [58184] = { 200 },
 
   -- Юношеская горячность
-  [68712] = { 625 },
+  [68712] = { 200 },
 
   -- Фиал теней
-  [77999] = { 625 },
+  [77999] = { 600 },
 
   -- Циклон
-  [65140] = { 625 },
+  [65140] = { 600 },
 
   -- Сокрушительный груз
-  [65118] = { 625 },
+  [65118] = { 600 },
 
   -- Вместилище души
-  [58183] = { 625 },
+  [58183] = { 600 },
 
   -- Чешуя мили
-  [54590] = { 625 },
+  [54590] = { 1000 },
 
   -- Чешуя рдд
-  [54588] = { 625 },
+  [54588] = { 600 },
 
   -- Чешуя танк
-  [54591] = { 500 },
+  [54591] = { 200 },
 
   -- Чешуя хил
-  [54589] = { 625 },
+  [54589] = { 200 },
 
   -- Основа посоха
   [430] = { 200 },
@@ -419,6 +420,55 @@ local CUSTOM_ITEM_GPBASE = {
 
   -- Талик с синдры (гер)
   [50365] = { 375 },
+  
+    -- Компас (гер)
+  [139049] = { 1400 },
+  
+    -- Решимость (гер)
+  [139048] = { 1400 },
+  
+    -- Комета (гер)
+  [151380] = { 1400 },
+  
+  -- Фетиш (гер)
+[72] = { 1000 },
+  
+-- Статуэтка бр.дракона (гер)
+[139051] = { 600 },
+  
+-- Фетиш (гер)
+[139050] = { 600 },
+  
+-- Средоточие (гер)
+[71] = { 600 },
+  
+-- Стрела времени (гер)
+[151780] = { 600 },
+
+-- Пелена лжи (гер)
+[151781] = { 600 },
+  
+-- Живой жар (гер)
+[151297] = { 200 },
+  
+-- Сердце огниса (гер)
+[59514] = { 200 },
+  
+-- Колдовской камень (гер)
+[151299] = { 1000 },
+
+-- Железное сердце (гер)
+[151298] = { 1000 },
+
+-- кровь древнего бога (гер)
+[151303] = { 1000 },
+
+-- Чешуйка судеб (гер)
+[151300] = { 200 },
+
+-- Чешуйка судеб (гер)
+[151300] = { 200 },
+
 }
 
 -- The default quality threshold:
